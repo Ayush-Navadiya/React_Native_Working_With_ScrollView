@@ -4,17 +4,19 @@ import { StyleSheet, Text, View, ScrollView } from 'react-native';
 export default function App() {
   return (
     <ScrollView style={styles.container}>
-      {/* Upper View */}
+      {/* View 1 */}
       <View style={styles.container1}>
         <Text>Stuff in view 1!</Text>
       </View>
-      {/* Lower View */}
+      {/* View 2 */}
       <View style={styles.container2}>
         <Text style={{color: '#fff'}}>Stuff in view 2!</Text>
       </View>
+      {/* View 3 */}
       <View style={styles.container1}>
         <Text>Stuff in view 3!</Text>
       </View>
+      {/* View 4 */}
       <View style={styles.container2}>
         <Text style={{color: '#fff'}}>Stuff in view 4!</Text>
       </View>
