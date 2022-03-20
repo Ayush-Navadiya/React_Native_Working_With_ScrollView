@@ -64,7 +64,7 @@ Initialize app with the following command:
 expo init your-project-name
 ```
 
-Note: When You Run the 'expo init' command it will ask you to choose template go with: \
+Note: When You Run the 'expo init' command it will ask you to choose template go with: 
  - blank : a minimal app as clean as an empty canvas
 
 
