@@ -36,7 +36,7 @@ React Native working with ScrollView Example
 ---
 ## Output
 
-![Output](https://github.com/Ayush-Navadiya/React_Native_Working_With_ScrollView/blob/master/Output/output.gif)
+<img src="https://github.com/Ayush-Navadiya/React_Native_Working_With_ScrollView/blob/master/Output/output.gif" width=250>
 
 
 
@@ -79,7 +79,7 @@ Note: When You Run the 'expo init' command it will ask you to choose template go
 8. You will see the output on the targeted device
 9. To see the output on screen. Change the app.js code with the code given bellow
 
-```
+```javascript
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, ScrollView } from 'react-native';
 
